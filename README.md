@@ -52,6 +52,11 @@ Sou apaixonado por tecnologia e utilizo este espaço para partilhar **projetos a
 
 <a href="https://github.com/Lobatopires" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lobatopires&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ## 🧠 Sobre mim
