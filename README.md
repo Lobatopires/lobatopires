@@ -47,8 +47,8 @@ Sou apaixonado por tecnologia e utilizo este espaço para partilhar **projetos a
 
 ## 📊 Estatísticas do GitHub
 
-![Helton GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lobatopires&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lobatopires&layout=compact&theme=tokyonight)
+![Helton GitHub Stats](https://githubreadmestatsfast.vercel.app/api?username=Lobatopires&show_icons=true&theme=tokyonight)
+![Top Langs](https://githubreadmestatsfast.vercel.app/api/top-langs/?username=Lobatopires&layout=compact&theme=tokyonight)
 
 ---
 
