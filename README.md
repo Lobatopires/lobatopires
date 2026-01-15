@@ -46,9 +46,11 @@ Sou apaixonado por tecnologia e utilizo este espaço para partilhar **projetos a
 ---
 
 ## 📊 Estatísticas do GitHub
+<a href="http://www.github.com/Lobatopires"><img src="https://github-readme-stats.vercel.app/api?username=Lobatopires&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lobatopires's GitHub stats" /></a>
 
-![Helton GitHub Stats](https://githubreadmestatsfast.vercel.app/api?username=Lobatopires&show_icons=true&theme=tokyonight)
-![Top Langs](https://githubreadmestatsfast.vercel.app/api/top-langs/?username=Lobatopires&layout=compact&theme=tokyonight)
+<a href="http://www.github.com/Lobatopires"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lobatopires&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Lobatopires" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lobatopires&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 
